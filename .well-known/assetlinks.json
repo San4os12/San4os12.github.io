@@ -1,8 +1,10 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.san4os12.twa",
-        "sha256_cert_fingerprints": ["8E:E4:C4:75:FD:94:18:B9:61:3F:86:C4:36:F9:B6:0A:DA:9F:01:DA:4C:79:8E:D9:8F:1F:BE:90:F0:7A:EC:C1"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.san4os12.ggzone",
+    "sha256_cert_fingerprints": [
+      "9D:79:12:38:CE:17:4C:81:D1:39:28:BF:2E:FD:68:DE:6D:A8:DC:9B:AE:12:B4:FD:45:9E:3C:82:51:FE:A6:A8"
+    ]
+  }
+}]
